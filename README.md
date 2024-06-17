@@ -2,12 +2,12 @@
 
 # Table of Contents
 
-_[Description](#description)
-_[Demo](#demo)
-_[Features](#features)
-_[Installation](#installation)
-_[Usage](#usage)
-_[Resources](#resources)
+- [Description](#description)
+- [Demo](#demo)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Resources](#resources)
 
 # Description
 
