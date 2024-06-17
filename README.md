@@ -29,9 +29,17 @@ To install this project you can either perform a git clone in your command-line 
 
 # Usage
 
-To use this project, git clone the repository and run node index.js. Make sure you're in the right location on your terminal!
+To use this project, git clone the repository
+open terminal in db folder and enter mysql -u root -p and enter your password
+enter source schema.sql
+enter source seeds.sql
+
+open terminal in project folder
+npm i
+npm run server.sj
 
 # Resources
 
 https://www.npmjs.com/package/inquirer
 https://sidorares.github.io/node-mysql2/docs/documentation
+Lots of help from my study group!
